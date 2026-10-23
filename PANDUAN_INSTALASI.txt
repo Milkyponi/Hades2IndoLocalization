@@ -1,0 +1,39 @@
+=======================================================
+   HADES II INDONESIAN LOCALIZATION MOD v1.0.0
+   Lead Modder & Localizer: Ochi (Milky Brain)
+   Directed by: Milkyponi
+=======================================================
+
+Terima kasih telah mengunduh Mod Bahasa Indonesia untuk Hades II!
+
+FITUR MOD:
+-------------------------------------------------------
+- 100% Subtitle, dialog naratif, kilas balik, celetukan tempur, dan lirik lagu 
+  berbahasa Indonesia alami & berkarakter (context-aware, anti-Google Translate).
+- UI, HUD, menu pengaturan, nama dewa, nama senjata, serta deskripsi Boon tetap 
+  100% Bahasa Inggris original agar panduan build internasional tetap mudah diikuti.
+- Dual-Slot Compatibility: Langsung aktif di slot default (English) maupun slot Bahasa Indonesia.
+- Stuttering Synchronized: Kata gagap/terbata-bata selaras fonetik 100% dengan kata yang diucapkan.
+
+CARA INSTALASI MUDAH:
+-------------------------------------------------------
+1. Buka folder instalasi game Hades II Anda di PC:
+   - Steam: Klik kanan Hades II di Steam Library -> Manage -> Browse local files.
+   - Lokasi default:
+     .../SteamLibrary/steamapps/common/Hades II/
+
+2. Ekstrak isi file 'Hades2Indo_v1.0.0.zip' langsung ke dalam folder instalasi Hades II tersebut.
+   Pastikan folder 'Content' tertimpa / digabungkan (Replace All).
+
+3. Jalankan game Hades II lewat Steam.
+   - Jika ingin memastikannya, masuk ke menu Options -> Language -> Pilih "Bahasa Indonesia".
+   - (Mod juga otomatis aktif di slot English bawaan).
+
+4. Selesai! Selamat bertualang bersama Putri Underworld, Melinoë!
+
+CARA UNINSTALL (KEMBALI KE ASLI):
+-------------------------------------------------------
+- Buka Steam Library -> Klik kanan Hades II -> Properties -> Installed Files -> Klik "Verify integrity of game files".
+
+Kredit: Milkyponi & Ochi (Milky Brain Localization Division)
+=======================================================
