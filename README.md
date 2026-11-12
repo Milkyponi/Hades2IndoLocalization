@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-PC%20(Steam%20%2F%20Epic)-blue?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/Hades%20II-v1.139671-red?style=for-the-badge" alt="Game Version">
   <img src="https://img.shields.io/badge/Engine-Supergiant%20SJSON-orange?style=for-the-badge" alt="Engine">
+  <a href="https://trakteer.id/milkyponi"><img src="https://img.shields.io/badge/Donate-Trakteer%20Milky%20Poni-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer"></a>
 </p>
 
 ---
@@ -99,3 +100,17 @@ Semua modifikasi beroperasi secara murni pada layer data Supergiant Games (`Cont
 ## ⚖️ Lisensi & Penafian
 
 Mod ini adalah karya proyek komunitas nirlaba (*non-commercial fan translation*). Seluruh hak cipta aset visual, audio, karakter, dan cerita dasar merupakan milik Supergiant Games.
+
+---
+
+## ☕ Dukung Proyek Ini (Donate)
+
+Jika mod lokalisasi Bahasa Indonesia ini bermanfaat bagi pengalaman bermain Anda, Anda dapat memberikan dukungan pengembangan kepada **Milky Poni** melalui Trakteer:
+
+<p align="center">
+  <a href="https://trakteer.id/milkyponi">
+    <img src="https://img.shields.io/badge/%E2%98%95%20Donate-Dukung%20di%20Trakteer%20(Milky%20Poni)-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer" height="40">
+  </a>
+</p>
+
+- **Link Trakteer**: [https://trakteer.id/milkyponi](https://trakteer.id/milkyponi)
